@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0+UhpXmmbx5ur+VqjtxhYfxERNnoEjZs6PmhwctnQ7OZko5dUQvrzqprxstimhEHyaB1IxEsjfJNWjBnxxskSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marianna.kurtukova\\RiderProjects\\DebuggerRegression\\DisablingEvaluation\\DisEvalNetCore3\\DisEvalNetCore3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marianna.kurtukova\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512"
+  ],
+  "logs": []
+}

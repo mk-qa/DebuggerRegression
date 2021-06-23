@@ -1,0 +1,16 @@
+C:\Users\marianna.kurtukova\RiderProjects\DebuggerRegression\DisablingEvaluation\DisEvalNet5\bin\Debug\net5.0\DisEvalNet5.exe
+C:\Users\marianna.kurtukova\RiderProjects\DebuggerRegression\DisablingEvaluation\DisEvalNet5\bin\Debug\net5.0\DisEvalNet5.deps.json
+C:\Users\marianna.kurtukova\RiderProjects\DebuggerRegression\DisablingEvaluation\DisEvalNet5\bin\Debug\net5.0\DisEvalNet5.runtimeconfig.json
+C:\Users\marianna.kurtukova\RiderProjects\DebuggerRegression\DisablingEvaluation\DisEvalNet5\bin\Debug\net5.0\DisEvalNet5.runtimeconfig.dev.json
+C:\Users\marianna.kurtukova\RiderProjects\DebuggerRegression\DisablingEvaluation\DisEvalNet5\bin\Debug\net5.0\DisEvalNet5.dll
+C:\Users\marianna.kurtukova\RiderProjects\DebuggerRegression\DisablingEvaluation\DisEvalNet5\bin\Debug\net5.0\ref\DisEvalNet5.dll
+C:\Users\marianna.kurtukova\RiderProjects\DebuggerRegression\DisablingEvaluation\DisEvalNet5\bin\Debug\net5.0\DisEvalNet5.pdb
+C:\Users\marianna.kurtukova\RiderProjects\DebuggerRegression\DisablingEvaluation\DisEvalNet5\obj\Debug\net5.0\DisEvalNet5.csproj.AssemblyReference.cache
+C:\Users\marianna.kurtukova\RiderProjects\DebuggerRegression\DisablingEvaluation\DisEvalNet5\obj\Debug\net5.0\DisEvalNet5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marianna.kurtukova\RiderProjects\DebuggerRegression\DisablingEvaluation\DisEvalNet5\obj\Debug\net5.0\DisEvalNet5.AssemblyInfoInputs.cache
+C:\Users\marianna.kurtukova\RiderProjects\DebuggerRegression\DisablingEvaluation\DisEvalNet5\obj\Debug\net5.0\DisEvalNet5.AssemblyInfo.cs
+C:\Users\marianna.kurtukova\RiderProjects\DebuggerRegression\DisablingEvaluation\DisEvalNet5\obj\Debug\net5.0\DisEvalNet5.csproj.CoreCompileInputs.cache
+C:\Users\marianna.kurtukova\RiderProjects\DebuggerRegression\DisablingEvaluation\DisEvalNet5\obj\Debug\net5.0\DisEvalNet5.dll
+C:\Users\marianna.kurtukova\RiderProjects\DebuggerRegression\DisablingEvaluation\DisEvalNet5\obj\Debug\net5.0\ref\DisEvalNet5.dll
+C:\Users\marianna.kurtukova\RiderProjects\DebuggerRegression\DisablingEvaluation\DisEvalNet5\obj\Debug\net5.0\DisEvalNet5.pdb
+C:\Users\marianna.kurtukova\RiderProjects\DebuggerRegression\DisablingEvaluation\DisEvalNet5\obj\Debug\net5.0\DisEvalNet5.genruntimeconfig.cache
