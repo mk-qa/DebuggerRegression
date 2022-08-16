@@ -1,0 +1,7 @@
+schemaVersion: 2.2.0
+attributes:
+  space:
+    editor:
+      type: Rider
+      updateChannel: Dev
+    projectRoot: ./DebuggerRegression.sln
